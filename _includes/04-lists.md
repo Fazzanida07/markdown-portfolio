@@ -1,2 +1,2 @@
-apple 
-cat
+*apple 
+*cat
